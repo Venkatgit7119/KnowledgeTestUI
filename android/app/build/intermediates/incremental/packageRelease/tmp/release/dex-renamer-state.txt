@@ -1,0 +1,4 @@
+#Wed Feb 03 14:55:29 IST 2021
+base.0=C\:\\Users\\Venkat\\Desktop\\Others\\React Native3\\MyReactNative\\android\\app\\build\\intermediates\\transforms\\dexMerger\\release\\0
+renamed.0=classes.dex
+path.0=classes.dex

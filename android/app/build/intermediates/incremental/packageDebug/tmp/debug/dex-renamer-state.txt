@@ -1,0 +1,7 @@
+#Wed Feb 03 14:34:44 IST 2021
+base.1=C\:\\Users\\Venkat\\Desktop\\Others\\React Native3\\MyReactNative\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.1=classes.dex
+base.0=C\:\\Users\\Venkat\\Desktop\\Others\\React Native3\\MyReactNative\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex
